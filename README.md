@@ -36,7 +36,9 @@
 <img src="assets/mocha.webp"/>
 </details>
 
+## Instructions
 
+Change Lemmy theme to darkly
 
 ## 💝 Current Maintainer
 - [Gandalf the Blue](https://github.com/Gandalf-the-Blue)
